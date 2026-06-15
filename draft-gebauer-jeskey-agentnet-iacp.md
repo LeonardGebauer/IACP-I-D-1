@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Internet Agent Communication Protocoll"
+abbrev: "IACP"
 category: info
 
 docname: draft-gebauer-jeskey-agentnet-iacp-latest
