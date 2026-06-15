@@ -2,7 +2,7 @@
 
 
 
-Network Working Group                                     LeonardGebauer
+Network Working Group                                    Leonard Gebauer
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                              15 June 2026
 Expires: 17 December 2026
@@ -12,8 +12,6 @@ Expires: 17 December 2026
                draft-gebauer-jeskey-agentnet-iacp-latest
 
 Abstract
-
-   TODO Abstract
 
 About This Document
 
